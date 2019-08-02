@@ -41,7 +41,7 @@
     "uniqCompNum": 30,
     "versionPublish": "4.9.5",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/djeffshead-128x126.png",
+    "favicon": "",
     "noImageResize": ""
   },
   "pages": {
